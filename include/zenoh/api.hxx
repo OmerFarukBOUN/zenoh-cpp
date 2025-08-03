@@ -36,6 +36,7 @@
 #include "api/session.hxx"
 #include "api/subscriber.hxx"
 #include "api/timestamp.hxx"
+#include "api/reciever.hxx"
 #if (defined(ZENOHCXX_ZENOHC) || Z_FEATURE_QUERY == 1) && defined(Z_FEATURE_UNSTABLE_API)
 #include "api/querier.hxx"
 #endif
